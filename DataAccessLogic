@@ -3,14 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//This is prn10
+//this is prn10 again
 using System.Data;
 using MySql.Data.MySqlClient;
 using BOL;
 
 namespace DAL
 {
-	//new changes
+	
 	//Connection is kept open till operation get completed.
 	//Explicitly connectin object has been managed with opening and closing by code
    //new comment
